@@ -37,7 +37,7 @@ Currently learning: MATLAB, C#
 
 ## 📊 GitHub Stats: Coming soon! ✨ 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="200" style="margin-right: 20px;">
   <p>
     Fun Fact: I enjoy listening to music! I've been listening to a indie/rock band called Her's recently, love them. I also enjoy playing games
