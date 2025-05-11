@@ -1,4 +1,4 @@
-## Hi i'm Ericka!!
+## Hi! I'm Ericka!!
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 
@@ -6,6 +6,7 @@ I'm a Electrical Engineering student minoring in CompSci too!
 I am passionate about embedded systems, medical devices and cybersecurity!  
 Currently learning: MATLAB, C#
 
+---
 
 - ## 💻 Tech Stack & Tools
 - **Languages**: C, Java, Python
@@ -20,7 +21,7 @@ Currently learning: MATLAB, C#
 - **CompTIA Security+**
 - **Girls Who Code** workshop participant
 
-##🚀 Projects:
+---
 
 ## 💼 Experience & Involvement
 - Member of the **Society of Women Engineers (SWE)** – Volunteer Committee
