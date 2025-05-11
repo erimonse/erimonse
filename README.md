@@ -1,6 +1,6 @@
 ## Hi! I'm Ericka!!
 
-<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100">
 
 I'm a Electrical Engineering student minoring in CompSci too!
 I am passionate about embedded systems, medical devices and cybersecurity!  
@@ -40,7 +40,7 @@ Currently learning: MATLAB, C#
 
 ## 📊 GitHub Stats: Coming soon! ✨ 
 
-<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="200">  
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="100">  
 **Fun Fact**: I enjoy listening to indie/rock music — lately I’ve been loving *Her’s*! I also game casually (Minecraft, Roblox, Stardew Valley 🌱).
 
 
