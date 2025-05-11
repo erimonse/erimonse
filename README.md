@@ -37,9 +37,7 @@ Currently learning: MATLAB, C#
 
 ## 📊 GitHub Stats: Coming soon! ✨ 
 
-<a href="https://your-link.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="200">
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="100">
 
 Fun Fact: I enjoy listening to music! I've been listening to a indie/rock band called Her's recently, love them. I also enjoy playing games like roblox and minecraft, been getting back in Stardew Valley!
 
